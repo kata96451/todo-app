@@ -1,9 +1,8 @@
-# React TypeScript Starter Pack
+A site for selling bicycles - [DEMO LINK]()
 
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+Used technologies:
+  - React
+  - JSX
+  - TS
+  - HTML
+  - SCSS
